@@ -8,3 +8,7 @@ numpy
 pandas
 matplotlib
 sbpy
+
+See environment.yml and create a conda environment (different operating systems may need some work):
+
+conda env create -f environment.yml
